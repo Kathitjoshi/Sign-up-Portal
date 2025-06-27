@@ -69,15 +69,6 @@ python Module1_PythonProject.py
 5. **Accept Terms** (check the Terms of Service agreement)
 6. **Click "CREATE ACCOUNT"** to complete registration
 
-## 📁 File Structure
-
-```
-signup-portal/
-│
-├── Module1_PythonProject.py    # Main signup application
-├── users.json                 # User data storage (auto-generated)
-└── README.md                   # This file
-```
 
 ## 🔧 Configuration
 
